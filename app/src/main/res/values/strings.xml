@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LastFM</string>
+    <string name="title_activity_album_list">AlbumList</string>
+    <string name="album_text_hint">Type the album here.</string>
+    <string name="search_button_text">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="album_image">Album image</string>
+</resources>
